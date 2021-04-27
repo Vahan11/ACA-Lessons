@@ -1,19 +1,55 @@
-var array = [0, 1];
+function fibbo(n1 = 0, n2 = 1)
+{
+	document.getElementById("fibbo").disabled = true;
 
-function fibbo(num1 = false, num2 = false, n) {
-  if (!num1 && !num2) {
-    num1 = 0;
-    num2 = 1;
-  }
+	var fibboDiv = document.getElementById('fibbo-div');
 
-  let num3 = num1 + num2;
-  let num4 = num2 + num3;
+	if(fibboDiv.getElementsByTagName('p').length > 2)
+		alert('Well done!');
+	else{
+		if(n2 > 3000000){
+			let pS = fibboDiv.getElementsByTagName('p');
+			let lastP = pS[pS.length-1];
+			lastP.innerHTML += "It's enough!";
 
-  array.push(num3);
-  array.push(num4);
+			fibbo();
 
-  if (array.length < n) fibbo(num3, num4, n);
+		}else{
+			if(n1 == 0){
+				var p = document.createElement("p");
+				fibboDiv.appendChild(p);
+
+				let n3 = n1 + n2;
+				let n4 = n2 + n3;
+
+				setTimeout(function(){
+					p.innerHTML = n1 + ', ';
+				}, 300);
+		
+				setTimeout(function(){
+					p.innerHTML += n2 + ', ';
+				}, 600);
+		
+				setTimeout(function(){
+					p.innerHTML += n3 + ', ';
+				}, 900);
+
+				setTimeout(fibbo, 1100, n3, n4);
+			}else{
+				let pS = fibboDiv.getElementsByTagName('p');
+				let lastP = pS[pS.length-1];
+
+				let n3 = n1 + n2;
+				let n4 = n2 + n3;
+
+				lastP.innerHTML += n2 + ', ';
+			
+				setTimeout(function(){
+					lastP.innerHTML += n3 + ', ';
+				}, 300);
+
+				setTimeout(fibbo, 600, n3, n4);
+			}
+		}
+	}
 }
-
-fibbo(false, false, 5);
-console.log(array);
