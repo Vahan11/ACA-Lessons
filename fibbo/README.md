@@ -1,3 +1,3 @@
 # Fibbo
 
-## _here mst be the description of this project_
+By clicking the **Fibbo** button, the application alternately displays the _Fibonacci sequence_ up to a certain amount.
