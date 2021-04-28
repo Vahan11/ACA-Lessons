@@ -4,3 +4,4 @@
 > A list of individual projects is below.
 
 - fibbo
+- working with variables (js)
