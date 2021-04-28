@@ -4,4 +4,5 @@ let name;
 name = "John";
 admin = name;
 
-console.log(admin);
+console.log(admin); // John
+
