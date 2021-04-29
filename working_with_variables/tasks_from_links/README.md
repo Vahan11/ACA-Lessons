@@ -1,4 +1,10 @@
 ## Reading materials tasks
 
-> Some tasks about random numbers and strings are missing. 
-> They will be done soon too.
+> Here are tasks from reading materials.
+
+### Task list
+- Tasks about numbers
+- Tasks about strings
+- Comparisons
+- Logical operators
+- String quotes

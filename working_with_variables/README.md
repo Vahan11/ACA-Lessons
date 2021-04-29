@@ -1,2 +1,2 @@
 # First JS lesson
-> Here is the tasks abot first JS lesson.
+> Here are the tasks abot first JS lesson.
