@@ -6,3 +6,5 @@
 
 - [GTU](https://github.com/vre2h/test-force/tree/master/gtu-01)
 - Main tasks
+
+> Note: At now parseInt and parseFloat logiks are missing. They are in process.
