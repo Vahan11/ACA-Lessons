@@ -13,7 +13,7 @@ while (i) {
 ```
 _The last value will be 1, because after the third iteration i will become a 0 and check while(i) do not pass._
 
-[To file](https://github.com/Vahan11/first_repo/blob/main/lesson-04-29-04-2021/literature_section_tasks/loops/task-01-last-value.js)
+[toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-04-29-04-2021/literature_section_tasks/loops/task-01-last-value.js)
 
 ### Task 02: Which values does the while loop show?
 > For every loop iteration, write down which value it outputs.
@@ -43,3 +43,5 @@ _3d iteration: i = 2, 2 < 5 (true), i++ (i=3), alert(3): 3_
 _4th iteration: i = 3, 3 < 5 (true), i++ (i=4), alert(4): 4_  
 _5th iteration: i = 4, 4 < 5 (true), i++ (i=5), alert(5): 5_  
 _6th iteration: i = 5, 5 < 5 (false), exit from the loop_
+
+[toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-04-29-04-2021/literature_section_tasks/loops/task-02-iterations.js)
