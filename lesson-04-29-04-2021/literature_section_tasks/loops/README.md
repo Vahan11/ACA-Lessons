@@ -4,7 +4,7 @@
 
  ### Task 01: Last loop value
  > What is the last value alerted by this code? Why?
- - [x] Answer: 1
+ - [x] __Answer:__ 1
 ```javascript
 let i = 3;
 while (i) {
