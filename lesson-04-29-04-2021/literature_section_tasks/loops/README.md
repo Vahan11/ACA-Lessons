@@ -24,10 +24,10 @@ while (++i < 5) {
   alert(i);
 }
 ```
-_first iteration: ++i (i = 1), 1 < 5 (true), alert(1): 1_
-_second iteration: ++i (i = 2), 2 < 5 (true), alert(2): 2_ 
-_third iteration: ++i (i = 3), 3 < 5 (true), alert(3): 3_ 
-_forth iteration: ++i (i = 4), 4 < 5 (true), alert(4): 4_ 
+_first iteration: ++i (i = 1), 1 < 5 (true), alert(1): 1_  
+_second iteration: ++i (i = 2), 2 < 5 (true), alert(2): 2_   
+_third iteration: ++i (i = 3), 3 < 5 (true), alert(3): 3_   
+_forth iteration: ++i (i = 4), 4 < 5 (true), alert(4): 4_   
 _fifth iteration: ++i (i = 5), 5 < 5 (false), exit from the loop_
 
 2. [x] **The postfix form i++**
@@ -37,9 +37,9 @@ while (i++ < 5) {
   alert(i);
 }
 ```
-_1t iteration: i = 0, 0 < 5 (true), i++ (i=1), alert(1): 1_
-_2nd iteration: i = 1, 1 < 5 (true), i++ (i=2), alert(2): 2_
-_3d iteration: i = 2, 2 < 5 (true), i++ (i=3), alert(3): 3_
-_4th iteration: i = 3, 3 < 5 (true), i++ (i=4), alert(4): 4_
-_5th iteration: i = 4, 4 < 5 (true), i++ (i=5), alert(5): 5_
+_1t iteration: i = 0, 0 < 5 (true), i++ (i=1), alert(1): 1_  
+_2nd iteration: i = 1, 1 < 5 (true), i++ (i=2), alert(2): 2_  
+_3d iteration: i = 2, 2 < 5 (true), i++ (i=3), alert(3): 3_  
+_4th iteration: i = 3, 3 < 5 (true), i++ (i=4), alert(4): 4_  
+_5th iteration: i = 4, 4 < 5 (true), i++ (i=5), alert(5): 5_  
 _6th iteration: i = 5, 5 < 5 (false), exit from the loop_
