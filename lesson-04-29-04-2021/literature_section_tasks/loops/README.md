@@ -3,7 +3,8 @@
 > Here are the tasks about while and for loops.
 
  ### Task 01: Last loop value
- > [x] What is the last value alerted by this code? Why?
+ > What is the last value alerted by this code? Why?
+ - [x] Answer: 1
 ```javascript
 let i = 3;
 while (i) {
