@@ -12,3 +12,5 @@ while (i) {
 }
 ```
 _The last value will be 1, because after the third iteration i will become a 0 and check while(i) do not pass._
+
+[To file](https://github.com/Vahan11/first_repo/blob/main/lesson-04-29-04-2021/literature_section_tasks/loops/task-01-last-value.js)
