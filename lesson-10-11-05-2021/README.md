@@ -9,7 +9,7 @@
 
 ### Vrezh's task
 
-_Given the user object. Collect the email adresses and files using reduce._
+_Given the user object. Collect the addresses and files under the keys: email, file._
 
 ```Javascript
 
