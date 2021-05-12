@@ -1,10 +1,11 @@
 # Array methods
 
-> Here are the tasks about array methods in JS.
+> Here are the tasks about array methods in JS.  
+> Note: Implementations are in process.
 
 ## Task list
 
-- Main Tasks
+- [Main Tasks](https://github.com/Vahan11/first_repo/tree/main/lesson-10-11-05-2021/main-tasks)
 - Methods Implementations
 
 ### Vrezh's task
