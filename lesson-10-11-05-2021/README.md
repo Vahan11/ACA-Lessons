@@ -1,7 +1,8 @@
 # Array methods
 
 > Here are the tasks about array methods in JS.  
-> Note: Implementations are in process.
+
+_**Note:** Implementations are in process._
 
 ## Task list
 
