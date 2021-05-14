@@ -22,7 +22,7 @@ _ _ _    _ _ _ _ _
 ```
 2
 ```
-**[X] Solution: V1**
+- [x] **Solution: V1**
 
 ```Javascript
 let str = "(())))";
@@ -57,7 +57,7 @@ console.log(ballanceStr(str)); // Left part must be filled by 2
 ```
 [toFile]()
 
-**[X] Solution: V2**
+- [x] **Solution: V2**
 
 ```Javascript
 let str = "((()))";
