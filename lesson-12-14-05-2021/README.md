@@ -5,7 +5,7 @@
 ## Task list
 
 - Object
-- Test 03 review
+- [Test 03 review](https://github.com/Vahan11/first_repo/tree/main/lesson-12-14-05-2021/test-review)
 
 ### Task from test
 
@@ -55,7 +55,7 @@ function ballanceStr(str) {
 
 console.log(ballanceStr(str)); // Left part must be filled by 2
 ```
-[toFile]()
+[toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-12-14-05-2021/test-review/parentheses-v1.js)
 
 - [x] **Solution: V2**
 
@@ -98,4 +98,4 @@ function ballanceStr(str) {
 
 console.log(ballanceStr(str)); // String are ballanced.
 ```
-[toFile]()
+[toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-12-14-05-2021/test-review/parentheses-v2.js)
