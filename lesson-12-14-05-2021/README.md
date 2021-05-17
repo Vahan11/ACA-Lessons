@@ -4,7 +4,7 @@
 
 ## Task list
 
-- Object
+- [Object](https://github.com/Vahan11/first_repo/tree/main/lesson-12-14-05-2021/object)
 - [Test 03 review](https://github.com/Vahan11/first_repo/tree/main/lesson-12-14-05-2021/test-review)
 
 ### Task from test
