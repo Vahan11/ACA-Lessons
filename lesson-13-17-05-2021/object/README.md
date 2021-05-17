@@ -4,7 +4,7 @@
 
 - [x] Task 01
 
-_Write an object with getter/setterfield name._
+_Write an object with getter/setter field name._
 
 ```Javascript
 const obj = {
