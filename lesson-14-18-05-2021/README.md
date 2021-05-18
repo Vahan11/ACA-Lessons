@@ -6,3 +6,9 @@
 
 - Regex Tutorial
 - Errors
+
+### Regex tutorial
+- [x] _Exercise 9: Matching Whitespaces_
+```Javascript
+\s
+```
