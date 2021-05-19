@@ -16,10 +16,6 @@
 ```Javascript
 ^M.*l$
 ```
-- [x] _Lesson 11: Matching Groups_
-```Javascript
-^M.*l$
-```
 - [x] _Lesson 11: Match groups_
 ```Javascript
 (file.*[a-z]*)\.pdf$
