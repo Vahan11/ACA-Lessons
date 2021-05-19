@@ -4,7 +4,7 @@
 
 ## Task list
 
-- Regex Tutorial
+- Regex
 - Errors
 
 ### Regex tutorial
