@@ -12,10 +12,10 @@ _Teacher's Function_
 
 - [x] **Create the function, which checks the students labs and grade them.**
 
-_Students task: Given a number. Create the function,_  
+- __Students task:__ _Given a number. Create the function,_  
 _which returns the ... ( description of the task ))._
 
-_Students task Requirements:_
+- __Students task Requirements:__
 _Submit the lab as an object: {student: yourName, runLab: yourFunc}._
 
 ```Javascript
@@ -88,9 +88,10 @@ gradeLabs(studentLabs);
 // Good job, Arsen.
 // Bad job, Hakob.
 
-// --------------------------------------------------  V. Sargsyan
+// ------------------------------------------------------
 
 ```
+- [toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-14-18-05-2021/error/task-04-teacher.js)
 ### About Trailing commas
 _Dr. Axel Rauschmayer_
 
