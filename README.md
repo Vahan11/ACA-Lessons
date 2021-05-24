@@ -12,3 +12,6 @@
 - [Lesson 7](https://github.com/Vahan11/first_repo/tree/main/lesson-07-06-05-2021)
 - [Lesson 9](https://github.com/Vahan11/first_repo/tree/main/lesson-09-10-05-2021)
 - [Lesson 10](https://github.com/Vahan11/first_repo/tree/main/lesson-10-11-05-2021)
+- [Lesson 12](https://github.com/Vahan11/first_repo/tree/main/lesson-12-14-05-2021)
+- [Lesson 13](https://github.com/Vahan11/first_repo/tree/main/lesson-13-17-05-2021)
+- [Lesson 14](https://github.com/Vahan11/first_repo/tree/main/lesson-14-18-05-2021)
