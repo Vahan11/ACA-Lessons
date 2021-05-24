@@ -7,16 +7,16 @@
 - [Errors](https://github.com/Vahan11/first_repo/tree/main/lesson-14-18-05-2021/error)
 - Regex
 
-### Errors: task 04
-__Teacher's Function__
+## Errors: task 04
+_Teacher's Function_
 
 - [x] **Create the function, which checks the students labs and grade them.**
 
-__Students task: Given a number. Create the function,__  
-__which returns the ... ( description of the task )).__
+_Students task: Given a number. Create the function,_  
+_which returns the ... ( description of the task ))._
 
-__Students task Requirements:__
-__Submit the lab as an object: {student: yourName, runLab: yourFunc}.__
+_Students task Requirements:_
+_Submit the lab as an object: {student: yourName, runLab: yourFunc}._
 
 ```Javascript
 // Parsed data
@@ -92,6 +92,7 @@ gradeLabs(studentLabs);
 
 ```
 ### About Trailing commas
+_Dr. Axel Rauschmayer_
 
 > Why is that useful? There are two benefits.
 
@@ -112,9 +113,6 @@ to:
 ```
 leads to both the line with 'foo' and the line with 'bar' being marked as changed,
 even though the only real change is the latter line being added.
-```Javascript
-// --------------------------------------------------- Dr. Axel Rauschmayer
-```
 
 ### Regex tutorial
 - [x] _Exercise 9: Matching Whitespaces_
