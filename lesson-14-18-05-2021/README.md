@@ -13,10 +13,10 @@ _Teacher's Function_
 - [x] **Create the function, which checks the students labs and grade them.**
 
 - __Students task:__ _Given a number. Create the function,_  
-_which returns the ... ( description of the task ))._
+_which returns the ... ( description of the task )._
 
 - __Students task Requirements:__
-_Submit the lab as an object: {student: yourName, runLab: yourFunc}._
+_Submit the lab as an object:_ ``` {student: yourName, runLab: yourFunc}. ```
 
 ```Javascript
 // Parsed data
