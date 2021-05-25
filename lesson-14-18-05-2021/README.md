@@ -91,7 +91,7 @@ gradeLabs(studentLabs);
 // ------------------------------------------------------
 
 ```
-- [toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-14-18-05-2021/error/task-04-teacher.js)
+[__toFile](https://github.com/Vahan11/first_repo/blob/main/lesson-14-18-05-2021/error/task-04-teacher.js)
 ### About Trailing commas
 _Dr. Axel Rauschmayer_
 
