@@ -1,6 +1,6 @@
 # Proto
 
-> Here are the tasks about Prototype and __proto__ in JS.
+> Here are the tasks about __proto__ in JS.
 
 ## Task list
 
