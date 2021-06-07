@@ -22,7 +22,9 @@ console.log(factorialize(5)); // 120
 [toFile](https://github.com/Vahan11/ACA-Lessons/blob/main/lesson-18-27-05-2021/recursion/factorial.js)
 
 - [x] Find the sum of a given array.
+
 _solution with recursion_
+
 ```Javascript
 function sumArr(arr, index = 0, sum = 0) {
   if (!arr[index]) {
