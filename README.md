@@ -3,7 +3,7 @@
 > This repository will contain projects and tasks made within ACA Bootcamp.
 > A list of individual projects is below.
 ## Projects
-- [fibbo](https://github.com/Vahan11/first_repo/tree/main/fibbo)
+- [fibbo](https://github.com/Vahan11/ACA-Lessons/tree/main/Projects/fibbo)
 ## Lessons
 - [Primitive Types](https://github.com/Vahan11/first_repo/tree/main/lesson-03-28-04-2021)
 - [Reference Type, Branching, Loops](https://github.com/Vahan11/first_repo/tree/main/lesson-04-29-04-2021)
