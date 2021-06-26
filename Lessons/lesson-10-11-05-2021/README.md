@@ -22,8 +22,8 @@ let user = {
     "email-2": "second-email@com",
     "email-3": "third-email@com",
     "file-1": "first-file",
-    "file-2": "first-file",
-    "file-3": "first-file",
+    "file-2": "second-file",
+    "file-3": "third-file",
 }
 
 let userArray = Object.entries(user);
