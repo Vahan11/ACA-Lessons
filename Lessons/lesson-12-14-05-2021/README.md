@@ -9,7 +9,7 @@
 
 ### Task from test
 
-_Given a string that consosts of left and right parentheses ["(" and ")"]. Balance the parentheses by inserting a arentheses if necessary. Determine the minimum number of characters that must be inserted._
+_Given a string that consists of left and right parentheses ["(" and ")"]. Balance the parentheses by inserting a arentheses if necessary. Determine the minimum number of characters that must be inserted._
 
 **Sample input**
 
