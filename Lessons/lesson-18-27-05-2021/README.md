@@ -4,7 +4,7 @@
 
 ## Task list
 
-- [Recursion](https://github.com/Vahan11/ACA-Lessons/tree/main/lesson-18-27-05-2021/recursion)
+- [Recursion](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-18-27-05-2021/recursion)
 
 - [x] Find the factorial of a given N.
 
