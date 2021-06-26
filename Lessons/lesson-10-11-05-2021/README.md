@@ -9,7 +9,7 @@ _**Note:** Implementations are in process._
 - [Main Tasks](https://github.com/Vahan11/first_repo/tree/main/lesson-10-11-05-2021/main-tasks)
 - [Methods Implementations](https://github.com/Vahan11/first_repo/tree/main/lesson-10-11-05-2021/implementations)
 
-### Vrezh's task
+### [vre2h's](https://github.com/vre2h) task
 
 _Given the user object. Collect the addresses and files under the keys: email, file._
 
