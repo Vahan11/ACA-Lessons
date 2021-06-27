@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <script src="form.js" defer></script>
+    <title>Form</title>
+</head>
+<body>
+    <div class="form">
+        <div class="form__bg">
+            <div class="form__container">
+                <form name="myForm" action="#" onsubmit="return validate('submit')">
+                    <div class="form__inp-btn-wrap">
+                        <input id="email-input" class="form__input" type="text" placeholder="Email" required>
+                        <input id="phone-input" class="form__input" type="text" placeholder="Phone number" required>
+                        <button class="form__submit">Submit</button>                        
+                    </div>
+                </form>
+                <div class="form__errors-wrap">
+                    <span id="email-error" class="form__error"></span>
+                    <span id="phone-error" class="form__error"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
