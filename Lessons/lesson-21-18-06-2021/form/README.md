@@ -2,11 +2,11 @@
 
 ## Used tech
 - HTML
- - BEM
+  - BEM
 - CSS
- - Animations
+  - Animations
 - JS
- - Work with DOM
+  - Work with DOM
 
 ![form](./images/form.jpg)
 
