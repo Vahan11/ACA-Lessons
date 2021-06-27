@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>To do list</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="js/todolist.js" defer></script>
+	<script src="js/filter.js" defer></script>
+	<script src="js/changeimage.js" defer></script>
+</head>
+<body>
+	<div class="container">
+		<div class="header" id="header">
+			<div class="filter">
+				<label for="filter" class="filter-label">Filter</label>
+				<select name="filter" id="filter-select">
+					<option value="all" selected><b>All</b></option>
+					<option value="active"><b>Active</b></option>
+					<option value="done"><b>Done</b></option>
+				</select>
+			</div>
+			<div class="clear">
+				<i class="fa fa-refresh"></i>
+			</div>
+			<div id="date"></div>
+		</div>
+		<div class="content">
+			<ul id="list">
+				<!-- Here we put the elements by js -->
+			</ul>
+		</div>
+		<div class="add-to-do">
+			<i class="fa fa-plus-circle"></i>
+			<input type="text" id="input" placeholder="Add task">
+		</div>
+	</div>
+</body>
+</html>
