@@ -151,8 +151,10 @@ list.addEventListener("click", function (event) {
 
 //Clear the local storage
 clear.addEventListener("click", function () {
-  localStorage.clear();
-  location.reload();
+  if (window.confirm("Clear all tasks?")) {
+    localStorage.clear();
+    location.reload();
+  }
 });
 
 // Filter
