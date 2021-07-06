@@ -20,3 +20,5 @@
 - [OOP / Classes](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-17-27-05-2021)
 - [Algorithms and DS: Recursion](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-18-27-05-2021)
 - [DOM](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-21-18-06-2021)
+- [setTimeout / setInterval](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-22-21-06-2021)
+- [Fetch API](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-23-29-06-2021)
