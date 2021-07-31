@@ -4,6 +4,6 @@
 
 ## Task list
 
-- [Object](https://github.com/Vahan11/first_repo/tree/main/lesson-13-17-05-2021/object)
-- [Date](https://github.com/Vahan11/first_repo/tree/main/lesson-13-17-05-2021/date)
-- [Implementations](https://github.com/Vahan11/first_repo/tree/main/lesson-13-17-05-2021/implementations)
+- [Object](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-13-17-05-2021/object)
+- [Date](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-13-17-05-2021/date)
+- [Implementations](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-13-17-05-2021/implementations)

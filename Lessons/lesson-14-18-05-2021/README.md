@@ -4,7 +4,7 @@
 
 ## Task list
 
-- [Errors](https://github.com/Vahan11/first_repo/tree/main/lesson-14-18-05-2021/error)
+- [Errors](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-14-18-05-2021/error)
 - Regex
 
 ## Errors: task 04
