@@ -4,5 +4,5 @@
 
 ## Task List
 
-- [Main tasks](https://github.com/Vahan11/first_repo/tree/main/lesson-04-29-04-2021/main_tasks)
-- [Literature section tasks](https://github.com/Vahan11/first_repo/tree/main/lesson-04-29-04-2021/literature_section_tasks)
+- [Main tasks](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-04-29-04-2021/main_tasks)
+- [Literature section tasks](https://github.com/Vahan11/ACA-Lessons/tree/main/Lessons/lesson-04-29-04-2021/literature_section_tasks)
